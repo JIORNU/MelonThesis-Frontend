@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/MelonNew/resources/views/teacher/teacherlogin.blade.php ENDPATH**/ ?>
